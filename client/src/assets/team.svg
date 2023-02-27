@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="76px" height="90px" viewBox="0 0 76 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>seek-team-icon-1 copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-1.11111111%" y1="50%" x2="101.111111%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#4C1C6C" offset="0%"></stop>
+            <stop stop-color="#952B75" offset="41.31%"></stop>
+            <stop stop-color="#D7397C" offset="81.27%"></stop>
+            <stop stop-color="#F03E7F" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-1.29731013%" y1="50%" x2="101.297468%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#4C1C6C" offset="0%"></stop>
+            <stop stop-color="#952B75" offset="41.31%"></stop>
+            <stop stop-color="#D7397C" offset="81.27%"></stop>
+            <stop stop-color="#F03E7F" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-0.00119467783%" y1="50.0013214%" x2="99.9996756%" y2="50.0013214%" id="linearGradient-3">
+            <stop stop-color="#4C1C6C" offset="0%"></stop>
+            <stop stop-color="#952B75" offset="41.31%"></stop>
+            <stop stop-color="#D7397C" offset="81.27%"></stop>
+            <stop stop-color="#F03E7F" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-7.32053571%" y1="50%" x2="107.321429%" y2="50%" id="linearGradient-4">
+            <stop stop-color="#4C1C6C" offset="0%"></stop>
+            <stop stop-color="#952B75" offset="41.31%"></stop>
+            <stop stop-color="#D7397C" offset="81.27%"></stop>
+            <stop stop-color="#F03E7F" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-2.75167785%" y1="50%" x2="102.751678%" y2="50%" id="linearGradient-5">
+            <stop stop-color="#4C1C6C" offset="0%"></stop>
+            <stop stop-color="#952B75" offset="41.31%"></stop>
+            <stop stop-color="#D7397C" offset="81.27%"></stop>
+            <stop stop-color="#F03E7F" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-12.0588235%" y1="50%" x2="112.058824%" y2="50%" id="linearGradient-6">
+            <stop stop-color="#4C1C6C" offset="0%"></stop>
+            <stop stop-color="#952B75" offset="41.31%"></stop>
+            <stop stop-color="#D7397C" offset="81.27%"></stop>
+            <stop stop-color="#F03E7F" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="seek-team-icon-1-copy-2" transform="translate(1.000000, 0.000000)">
+            <g id="Group">
+                <path d="M35.3,88.5 C32.8,87.6 24.1,83.6 16,72.8 C5.7,59.2 0.5,40.6 0.3,17.3 L0.3,12.4 L5.2,12.1 C22.2,11 31.5,4.7 33.9,2.8 L35.6,1.5 C36.5,0.8 37.9,0.8 38.8,1.5 L40.5,2.8 C42.9,4.7 52.2,11 69.2,12.1 L74.1,12.4 L74.1,17.3 C73.8,34.2 70.7,58 56.8,74.9 C49.1,84.1 41.3,87.6 39,88.5 L38,88.9 C37.5,89.1 36.7,89.1 36.2,88.9 L35.3,88.5 Z" id="Shape" stroke="url(#linearGradient-1)" stroke-width="1.64" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M49.6,75 C50.6,74 51.6,72.9 52.7,71.6 C65.6,55.9 68.6,33.6 68.7,17.2 C64.2,16.9 49.3,15.4 38.6,7.9 C37.8,7.3 36.5,7.3 35.7,7.9 C24.9,15.4 10,17 5.5,17.2 C5.8,48.3 15.4,65.3 24.1,74.3 C30.1,80.6 35.6,83 37.1,83.6" id="Shape" stroke="url(#linearGradient-2)" stroke-width="1.64" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M37.1,71 L35.2,72 C35.1,72.1 34.9,72 35,71.8 L35.3,69.8 C35.3,69.7 35.3,69.7 35.3,69.6 L33.8,68.2 C33.7,68.1 33.8,67.9 33.9,67.9 L35.9,67.6 C36,67.6 36,67.6 36,67.5 L36.9,65.7 C37,65.6 37.1,65.6 37.2,65.7 L38.1,67.5 C38.1,67.6 38.2,67.6 38.2,67.6 L40.2,67.9 C40.3,67.9 40.4,68.1 40.3,68.2 L39,69.6 C39,69.6 38.9,69.7 39,69.8 L39.3,71.8 C39.3,71.9 39.2,72 39.1,72 L37.1,71 L37.1,71" id="Shape" fill="url(#linearGradient-3)" fill-rule="nonzero"></path>
+                <circle id="Oval" stroke="url(#linearGradient-4)" stroke-width="1.64" stroke-linecap="round" stroke-linejoin="round" cx="37.1" cy="69.3" r="5.6"></circle>
+                <path d="M42.6,23.1 C48.1,25.2 52.1,30.6 52.1,36.8 L52.1,50.1 C48.1,50.1 44.2,56.7 39.6,56.7 L39.6,41 L47.9,40.1 L47.9,35.5 L37.2,37.7 L26.5,35.5 L26.5,40.1 L34.8,41 L34.8,56.7 C30.2,56.7 27.4,50.1 22.3,50.1 L22.3,36.8 C22.3,30.6 26.2,25.2 31.8,23.1" id="Shape" stroke="url(#linearGradient-5)" stroke-width="1.64" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M33.8,16.5 C33.8,16.5 35.5,21.6 35.5,25.9 L38.9,25.9 C38.9,21.6 40.6,16.5 40.6,16.5 C40.6,16.5 38.7,15.9 37.2,15.9 C35.6,15.9 33.8,16.5 33.8,16.5 Z" id="Shape" stroke="url(#linearGradient-6)" stroke-width="1.64" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

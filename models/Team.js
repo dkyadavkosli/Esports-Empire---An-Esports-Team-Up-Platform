@@ -1,0 +1,79 @@
+const mongoose = require('mongoose');
+
+const Team = new mongoose.Schema({
+    name:{
+        type:String,
+        require:true,
+        min:3,
+        max:25
+    },
+    captain_id:{
+        type:String,
+        require:true
+    },
+    game:{
+        type:String,
+        require:true, 
+    }, 
+    captain_name:{
+        type:String,
+        require:true,
+        min:3
+    },
+    captain_phone:{
+        type:String,
+        require:true,
+        min:3
+    },
+    captain_email:{
+        type:String,
+        require:true,
+        min:3
+    },
+    logo:{
+        type:String,
+        require:true,
+        min:3
+    },
+    recruiting:{
+        type:String,
+        require:true,
+        min:3
+    },
+    role_required:{
+        type:String
+    },
+    desc:{
+        type:String,
+        require:true,
+        min:3
+    },
+    instagram:{
+        type:String,
+        require:true,
+        min:3
+    },
+    facebook:{
+        type:String,
+        require:true,
+        min:3
+    },
+    discord_channel:{
+        type:String,
+        require:true,
+        min:3
+    },
+    country:{
+        type:String,
+        require:true,
+        min:3
+    },
+    password:{
+        type:String,
+        require:true,
+        min:3
+    }
+},
+{timestamps:true}); 
+
+module.exports = mongoose.model("Team",Team);
